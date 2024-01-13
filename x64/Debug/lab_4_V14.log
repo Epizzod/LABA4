@@ -1,0 +1,14 @@
+﻿  lab_4_V14.cpp
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_4_V14\lab_4_V14.cpp(81,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_4_V14\lab_4_V14.cpp(80): message : во время компиляции функции-члена класс шаблон "T &DequeBasedOnUnidirectionalCyclicLinkedList<T>::operator [](int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_4_V14\lab_4_V14.cpp(263): message : выполняется компиляция ссылки на экземпляр шаблон функции "T &DequeBasedOnUnidirectionalCyclicLinkedList<T>::operator [](int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\diden\Desktop\ворк\вуз\vs\lab_4_V14\lab_4_V14.cpp(245): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DequeBasedOnUnidirectionalCyclicLinkedList<int>"
+  lab_4_V14.vcxproj -> C:\Users\diden\Desktop\ворк\вуз\vs\lab_4_V14\x64\Debug\lab_4_V14.exe
